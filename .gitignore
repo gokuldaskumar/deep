@@ -36,3 +36,8 @@ yarn-error.log*
 .vercel
 .vscode
 .env*.local
+
+# headless-browser tooling
+scripts/headless-browser/node_modules/
+screenshot.png
+*.pdf
